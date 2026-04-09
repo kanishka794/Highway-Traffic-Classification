@@ -4,4 +4,4 @@ timm
 gradio
 opencv-python-headless
 numpy
-Pillw
+Pillow
